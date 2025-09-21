@@ -1,2 +1,2 @@
 # JavaScript-HC
-The Repo to code in Js only
+###The Repo is to code in JS only
