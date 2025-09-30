@@ -1,0 +1,47 @@
+// for loop -> starting and ending known
+// While loop -> Dont know how many times to perform task
+// do-while -> atleast execute once
+
+
+// for(let i=1; i<=10; i++)
+// {
+//  console.log(i)
+// }
+
+
+// Table of a number
+
+// let num = 4
+// for(let i=1; i<=10; i++)
+// {
+//     let result = num*i
+//     console.log(result)
+// }
+
+
+// let i = 0
+// while(i<=10)
+// {
+//     console.log(i)
+//     i++
+// }
+
+
+// let num = 8
+// while(num != 0)
+// {
+//  num = Math.floor(num/2)
+//  console.log(num)
+
+// }
+
+
+// do-while
+
+let num = 7
+do
+{
+    console.log("Shantanu")
+    num--
+    
+}while(num > 2)
